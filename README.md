@@ -132,4 +132,4 @@ Findings: No significant difference
 
 *Scores by School Size* = no sigificant changes captured at all. 
 
-*Scores by School Type* = small chages in both Charter type grouping and District type grouping for all scores was only captured with a change by less than 0.1%).
+*Scores by School Type* = small chages in both Charter type grouping and District type grouping for all scores was only captured with a change by less than 0.1%.
