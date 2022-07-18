@@ -37,31 +37,99 @@ Outcome: The average math, reading and overall test scores at Thomas High School
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-The scores were not impacted. 
+The scores for Thomas High School were not impacted. See screenshots below for reference:
 
 *Ninth graders’ math scores - Original*
 
-<img width="297" alt="9th_grade_mathscores OG" src="https://user-images.githubusercontent.com/106992995/179457923-94a144b3-0bc7-4fbf-b22d-2a7f420cd0da.png">
+<img width="229" alt="math_scores_by_gradeOG" src="https://user-images.githubusercontent.com/106992995/179459924-d892408f-c789-4396-b85c-389e503173dc.png">
 
 *Ninth graders’ reading scores - Original*
 
-<img width="297" alt="9threadingscoresOG" src="https://user-images.githubusercontent.com/106992995/179457934-1851a561-84d2-4f09-a45d-007a7bab21b1.png">
+<img width="231" alt="Reading_scores_by_gradeOG" src="https://user-images.githubusercontent.com/106992995/179459943-d05753fa-7727-4f32-9594-5fdebcf00516.png">
 
-vs. 
+VS
 
 *Ninth graders’ math scores - Thomas High School*
 
-<img width="329" alt="THSMathscores" src="https://user-images.githubusercontent.com/106992995/179458450-d59a6354-7176-4b96-83a7-abc2fe4f3927.png">
+<img width="202" alt="Math_scoresTHS" src="https://user-images.githubusercontent.com/106992995/179460194-606b4b61-db8d-4555-99cc-aac62a965931.png">
 
 
-<img width="333" alt="reading scoresths" src="https://user-images.githubusercontent.com/106992995/179458951-4ded03e4-a6ad-48cf-b039-2e9e1ba884c6.png">
+*Ninth graders’ reading scores - Thomas High School*
+
+<img width="190" alt="Reading_scoresTHS" src="https://user-images.githubusercontent.com/106992995/179460254-2bd3f86a-9703-4df1-8993-7c98f4028436.png">
 
 
-How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade
-Scores by school spending
-Scores by school size
-Scores by school type
+**How does replacing the ninth-grade scores affect the following:**
+
+Math and reading scores by grade?
+
+*Math and Reading scores - Original*
+
+<img width="332" alt="Math_scores_by_grade_OG" src="https://user-images.githubusercontent.com/106992995/179461505-bebcabc0-c95a-4a9e-9fcb-775f3e58b60a.png"> 
+<img width="344" alt="Reading_scores_by_grade_OG" src="https://user-images.githubusercontent.com/106992995/179461523-340d8df6-475e-4c5a-9f61-7b2357b8fe3b.png">
 
 
-Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+*Math and Reading scores - Thomas High School*
+
+<img width="319" alt="Math_scores_THS" src="https://user-images.githubusercontent.com/106992995/179461758-f823b088-59ec-4988-a5a3-6e112215a768.png">
+<img width="320" alt="Reading_scores_THS" src="https://user-images.githubusercontent.com/106992995/179461776-3eeec8ff-2ff6-429d-bebb-7e24ed82485e.png">
+
+
+**Scores by school spending**
+
+*School Spending: Original*
+
+<img width="887" alt="SpendingOG" src="https://user-images.githubusercontent.com/106992995/179462057-34c72092-518b-447a-ae89-a6888154f04c.png">
+
+
+*School Spending: Thomas High School*
+
+<img width="851" alt="SpendingTHS" src="https://user-images.githubusercontent.com/106992995/179462110-2dd85fff-b3fb-4bd2-83c8-14217ab7dbbc.png">
+
+
+
+
+
+**Scores by school size**
+
+
+Findings: No significant difference
+
+*School Size: Original*
+
+<img width="795" alt="Scores_by_School_sizeOG" src="https://user-images.githubusercontent.com/106992995/179462563-01dfbf21-9afa-4e8e-8c87-934085bac918.png">
+
+
+*School Size: Thomas High School*
+
+<img width="769" alt="Scores_by_School_sizeTHS" src="https://user-images.githubusercontent.com/106992995/179462581-591de92c-6eca-472e-be65-716529eb6288.png">
+
+
+
+
+**Scores by school type**
+
+*School Type Score: Original*
+
+<img width="741" alt="School_typeOG" src="https://user-images.githubusercontent.com/106992995/179462916-977d6210-e643-47d3-9128-bc129b835e21.png">
+
+
+*School Type Score: Thomas High School*
+
+<img width="729" alt="School_typeTHS" src="https://user-images.githubusercontent.com/106992995/179462940-754423cf-5eea-46b0-ac1f-7b4efaf15b24.png">
+
+
+
+
+**Summary:** 
+
+**Four takeaways** in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+
+
+*District Analysis* = changes to all scores were less than a half of a percent (0.5%) in total points, so no impact to school or student count.
+
+*Top School Ranking* = no change to ranking even though some Thomas High School scores did change, they weren't significant enough to bump higher up on their ranking. 
+
+*Scores by School Size* = no sigificant changes captured at all. 
+
+*Scores by School Type* = small chages in both Charter type grouping and District type grouping for all scores was only captured with a change by less than 0.1%).
