@@ -17,7 +17,7 @@ District Analysis - Original
 District Analysis - Thomas High School
 <img width="951" alt="District Summary THS" src="https://user-images.githubusercontent.com/106992995/179455820-81536013-3c02-4eff-8f24-d6654e48a05e.png">
 
-Outcome: There was not a large impact on adding NaNs to Thomas High School's 9th graders because there are only 461 students in 9th grade at Thomas High School, and given the total student count is 39,170, both math and reading scores were only off by a couple hundreths of a percent as a margin of error.
+Outcome: There was not a large impact on adding NaNs to Thomas High School's 9th graders because there are only 461 students in 9th grade at Thomas High School, and given the total student count is 39,170, both math and reading scores were only off by a couple hundredths of a percent as a margin of error.
 
 
 Was the school summary affected?
