@@ -89,7 +89,6 @@ Math and reading scores by grade?
 
 
 
-
 **Scores by school size**
 
 
